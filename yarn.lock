@@ -6518,6 +6518,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"marked@npm:^15.0.3":
+  version: 15.0.3
+  resolution: "marked@npm:15.0.3"
+  bin:
+    marked: bin/marked.js
+  checksum: 10c0/2e08d50b2ad96509a8ca93a5b57e9c7bf64ea44c8f504392191955dac5b117996ee39ceaafe0330e87a3bd93f7af5942bb87ef9bf55664a8d660012e7a43c3cc
+  languageName: node
+  linkType: hard
+
 "mdn-data@npm:2.0.28":
   version: 2.0.28
   resolution: "mdn-data@npm:2.0.28"
@@ -7256,6 +7265,7 @@ __metadata:
     eslint: "npm:^8.57.0"
     eslint-config-prettier: "npm:^9.1.0"
     eslint-plugin-prettier: "npm:^5.1.3"
+    marked: "npm:^15.0.3"
     normalize.css: "npm:^8.0.1"
     nuxt: "npm:^3.10.3"
     nuxt-primevue: "npm:^0.3.1"
