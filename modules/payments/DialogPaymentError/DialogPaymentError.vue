@@ -6,10 +6,10 @@
         :syle="{ width: '400px' }"
     >
         <div class="m-0 flex flex-col items-center justify-center w-full">
-            <i class="pi pi-check-circle text-primary-500 text-6xl my-5"></i>
+            <i class="pi pi-times-circle text-primary-500 text-6xl my-5"></i>
             <p class="font-[Inter] text-gray-700 text-center">
-                Parabéns pela compra! <br />
-                Você receberá no e-amil fornecido no checkout o seu gist 🤩
+                Sentimos muito por isso! <br />
+                Por favor, tente efetuar a compra novamente.
             </p>
         </div>
         <template #footer>
